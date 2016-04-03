@@ -1,6 +1,11 @@
 # File Manager
 
+[![Build Status][BS img]][Build Status]
+
 File manager gem for handling different storage implementations. Currently only supports S3.
+
+[Build Status]: https://travis-ci.org/galkon/file_manager
+[BS img]: https://travis-ci.org/galkon/file_manager.svg?branch=master
 
 ## Installation
 
